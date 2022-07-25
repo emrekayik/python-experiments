@@ -1,0 +1,11 @@
+About:
+ 	A simple student management software that will help you manage to your students information. 
+ 	It is written in python 3.7.
+
+Requirements:
+        *pyhton3 need to be installed
+
+How to run:
+         #python3.7 student_manage.py
+
+  

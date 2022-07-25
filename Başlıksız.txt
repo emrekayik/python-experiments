@@ -1,0 +1,4 @@
+self.helpmenu.add_command(label="Yardým", command=self.infohelp())
+ def infohelp(self):
+    messagebox.showinfo("YARDIM","DOSYA SEÇENEKLERÝ\nYeni Dosya : Bu seçeneði seçerek yeni metin dosyalarýnýzý oluþturabilirsiniz.\n\nDosya Aç : Bu seçeneði seçerek bilgisayarýnýzda bulunan dosyalardan birini seçebilirsiniz.\n\nKaydet : Bu seçeneði seçerek oluþturduðunuz dosyayý bilgisayarýnýza kaydedebilirsiniz.\n\nFarklý Kaydet : Bu seçeneði seçerek Oluþturduðunuz dosyayý bilgisyarýnýza farklý kaydedebilirsiniz.\n\n\nKISAYOL TUÞLARI\nCtrl+N  : Yeni Dosya\nCtrl+O  : Dosya Aç\nCtrl+S  : Kaydet\nCtrl+A  : Farklý Kaydet\nCtrl+E  : Çýkýþ\nCtrl+X  : Kes\nCtrl+C  : Kopyala\nCtrl+V  : Yapýþtýr\nCtrl+U  : Geri Al")
+  
